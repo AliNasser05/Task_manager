@@ -1,6 +1,6 @@
 # 📝 Task Manager (Python)
 
-**command-line task manager** built in Python using **Object-Oriented Programming (OOP)** principles.  
+**Command-line task manager** built in Python using **Object-Oriented Programming (OOP)** principles.  
 It allows you to **add, remove, complete, and list tasks**, with data saved persistently in a JSON file.  
 
 ---
